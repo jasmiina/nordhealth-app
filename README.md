@@ -1,6 +1,13 @@
-# Nuxt Minimal Starter
+# Nordhealth-app
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A simple sign up page for fictional Product Y made with Nuxt3 and Vue3 Composition API with the modern script setup. This app follows the Nordhealth "Therapy" style guidelines and uses its tokens and web components, among custom Vue components.
+
+Features:
+- Accessible - screen reader, color blindness, keyboard support is all taken into account.
+- Responsive - works both mobile & desktop
+- Form validation built with a custom solution. For now, validation only checks for "required" attribute, so no email or password pattern validation.
+
+To run the app locally, just use default Nuxt commands as described below.
 
 ## Setup
 
@@ -37,39 +44,3 @@ yarn dev
 # bun
 bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
