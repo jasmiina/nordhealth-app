@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  place-items: center;
+  background-color: var(--n-color-background);
+  padding: var(--n-space-l);
+}
