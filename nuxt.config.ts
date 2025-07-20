@@ -13,6 +13,13 @@ export default defineNuxtConfig({
             "sha384-9FV4ikmPiDEn1F2NuHi9J8BThbSFNWbgombQ9SNY9Jh0H/WWC40owQakNeJL7Jeg",
           crossorigin: "anonymous",
         },
+        {
+          rel: "stylesheet",
+          href: "https://nordcdn.net/ds/themes/9.0.0/vet.css",
+          integrity:
+            "sha384-m91LHupcnWiGya8NVLut8CbIzk4BXmIyANudHXe2506i9wlTr4ccncegBmvsAThA",
+          crossorigin: "anonymous",
+        },
       ],
       script: [
         {

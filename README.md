@@ -1,6 +1,6 @@
 # Nordhealth-app
 
-A simple sign up page for fictional Product Y made with Nuxt3 and Vue3 Composition API with the modern script setup. This app follows the Nordhealth "Therapy" style guidelines and uses its tokens and web components, among custom Vue components.
+A simple sign up page for fictional Product Y made with Nuxt3 and Vue3 Composition API with the modern script setup. This app follows the Nordhealth "Veterinary" style guidelines and uses its tokens and web components, among custom Vue components.
 
 Features:
 - Accessible - screen reader, color blindness, keyboard support is all taken into account.
